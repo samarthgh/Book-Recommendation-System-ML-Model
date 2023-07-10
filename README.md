@@ -52,7 +52,8 @@ Bookmore is a book recommendation website that utilizes the power of Python's Nu
 5. Enter your preferences or any book details in the input field and click "Submit".
 
 6. Bookmore will process your input and recommend books based on your preferences using a recommendation algorithm.
-![Uploading Screenshot 2023-07-10 at 2.13.32 PM.png…]()
+
+<img width="1440" alt="Screenshot 2023-07-10 at 2 13 32 PM" src="https://github.com/samarthgh/Book-Recommendation-System-ML-Model/assets/94733648/a992cf07-c48f-4cc7-af99-66655ba10150">
 
 7. The recommended books will be displayed on the recommendation page.
 
